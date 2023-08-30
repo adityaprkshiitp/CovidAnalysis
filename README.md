@@ -12,7 +12,7 @@ This project aims to monitor the different aspects of the spread of covid 19 its
 - SSMS
 - Tableau Public
 
-- ## Dataset Used
+## Dataset Used
 Covid Dataset include
 death count, vaccination count, country, population, death based on previous diseases and covid
 
@@ -21,5 +21,5 @@ Here is the dataset used -
 More info about dataset can be found here:
 - Website - https://ourworldindata.org/covid-deaths
 
-  ## Tableau Dashboard
-  https://public.tableau.com/views/CovidAnalysis_16915919769670/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+## Tableau Dashboard
+https://public.tableau.com/views/CovidAnalysis_16915919769670/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
