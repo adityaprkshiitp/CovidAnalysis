@@ -20,3 +20,6 @@ Here is the dataset used -
 
 More info about dataset can be found here:
 - Website - https://ourworldindata.org/covid-deaths
+
+  ## Tableau Dashboard
+  https://public.tableau.com/views/CovidAnalysis_16915919769670/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
